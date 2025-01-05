@@ -1,6 +1,10 @@
-title: Sustainable City
-description: This Sustainable City Coding Project focuses on leveraging technology to design and simulate solutions for creating environmentally friendly, efficient, and livable urban environments. 
-This project involves developing stratagies that address critical challenges like energy efficiency, waste management, transportation, green building design, water conservation, and urban planning. 
-By incorporating real-time data analysis, IoT integration, and predictive modeling, the project aims to enhance resource optimization, reduce carbon footprints, 
-and improve the overall quality of life for urban populations while promoting long-term environmental sustainability. 
-theme: jekyll-theme-cayman
+description: >
+  This Sustainable City Coding Project focuses on leveraging technology to design
+  and simulate solutions for creating environmentally friendly, efficient, and livable
+  urban environments. This project involves developing strategies that address
+  critical challenges like energy efficiency, waste management, transportation, green
+  building design, water conservation, and urban planning. By incorporating real-time
+  data analysis, IoT integration, and predictive modeling, the project aims to enhance
+  resource optimization, reduce carbon footprints, and improve the overall quality
+  of life for urban populations while promoting long-term environmental sustainability.
+
