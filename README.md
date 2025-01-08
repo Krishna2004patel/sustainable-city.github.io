@@ -9,8 +9,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 
 
 ## 🚀 Skills
-- C++, Python, JavaScript
-- Data Structures and Algorithms
+- C++, Python,Data Structures and Algorithms
 
 ## 🌐 Find Me Online
 - [GitHub](https://github.com/Krishna2004patel)
